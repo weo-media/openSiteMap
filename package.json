@@ -1,0 +1,19 @@
+{
+  "name": "openSiteMap",
+  "version": "1.0.0",
+  "description": "script that you give it a weo client webpage url, and it goes to the sitemap and hits every page listed. Handy for caching every page once you mark the site for recache. uses puppeteer.",
+  "main": "openSiteMap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WEOmedia/openSiteMap.git"
+  },
+  "keywords": [],
+  "author": "Doug McKay",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
